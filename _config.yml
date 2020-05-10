@@ -20,10 +20,8 @@
 
 title: victory's Blog
 email: dinggl9367@163.com
-description:I am a embedded linux application software engineer. My work direction is audio
-  and video codec. On my website, I will post some blog related to c/c++ language feature, 
-  linux system, audio and video codec format, network transmation protocol like tcp/ip, audio
-  and video algorithms. Welcome, enjoy it . 
+description: >
+  I am a embedded linux application software engineer. My work direction is audio and video codec. On my website, I will post some blog related to c/c++ language feature, linux system, audio and video codec format, network transmation protocol like tcp/ip, audio and video algorithms. Welcome, enjoy it . 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: freedomvictory
